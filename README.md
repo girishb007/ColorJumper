@@ -1,8 +1,6 @@
 # react-native-quick-sample
-A small and simple example app with navigation, data persistence, listview and animation!
+A small and simple example app with navigations listview and animation basssssss !! .........
 
-
-<img src="demo.gif" alt="demo" width="60%"/>
 
 ## Install and run on android
 ```
